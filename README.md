@@ -20,12 +20,13 @@ Now you enjoy the following aliases. You're welcome.
 ```
   agregar = add
   bitacora = log
-  perpetrar = commit
+  clonar = clone
   culpar = blame
   empujar = push
   esconder = stash
   estado = status
   guardar = stash
+  perpetrar = commit
   rama = branch
   revertir = revert
   tirar = pull
