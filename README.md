@@ -32,7 +32,17 @@ Now you enjoy the following aliases. You're welcome.
   unir = merge
 ```
 
+## Example
+
+```
+$ git tirar
+$ vim README.md
+$ git agregar README.md
+$ git comprometer -am "Readme updated"
+$ git empujar
+```
 
 ## Wanna contribute?
 
 Fork away and submit PRs (include tests, please). 
+
