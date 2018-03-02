@@ -1,0 +1,10 @@
+[alias]
+  culpar = blame
+  empujar = push
+  estado = status
+  rama = branch
+  tirar = pull
+  tronco = log
+  esconder = stash
+  guardar = stash
+
