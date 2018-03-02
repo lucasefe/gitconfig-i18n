@@ -20,7 +20,7 @@ Now you enjoy the following aliases. You're welcome.
 ```
   agregar = add
   bitacora = log
-  comprometer = commit
+  perpetrar = commit
   culpar = blame
   empujar = push
   esconder = stash
@@ -38,7 +38,7 @@ Now you enjoy the following aliases. You're welcome.
 $ git tirar
 $ vim README.md
 $ git agregar README.md
-$ git comprometer -am "Readme updated"
+$ git perpetrar -am "Readme updated"
 $ git empujar
 ```
 

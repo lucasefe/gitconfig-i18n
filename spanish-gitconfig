@@ -1,7 +1,7 @@
 [alias]
   agregar = add
   bitacora = log
-  comprometer = commit
+  perpetrar = commit
   culpar = blame
   empujar = push
   esconder = stash
