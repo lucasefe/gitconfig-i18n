@@ -1,5 +1,6 @@
 [alias]
   agregar = add
+  bitacora = log
   comprometer = commit
   culpar = blame
   empujar = push
