@@ -18,14 +18,18 @@ Add this to your `.gitconfig`, using the your own absolute path to the localized
 Now you enjoy the following aliases. You're welcome. 
 
 ```
-culpar = blame
-empujar = push
-esconder = stash
-estado = status
-guardar = stash
-rama = branch
-tirar = pull
-tronco = log
+  agregar = add
+  bitacora = log
+  comprometer = commit
+  culpar = blame
+  empujar = push
+  esconder = stash
+  estado = status
+  guardar = stash
+  rama = branch
+  tirar = pull
+  tronco = log
+  unir = merge
 ```
 
 
