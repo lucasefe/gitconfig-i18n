@@ -4,7 +4,6 @@
   perpetrar = commit
   culpar = blame
   empujar = push
-  esconder = stash
   estado = status
   guardar = stash
   rama = branch
