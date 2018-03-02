@@ -27,6 +27,7 @@ Now you enjoy the following aliases. You're welcome.
   estado = status
   guardar = stash
   rama = branch
+  revertir = revert
   tirar = pull
   tronco = log
   unir = merge
