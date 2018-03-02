@@ -10,4 +10,5 @@
   rama = branch
   tirar = pull
   tronco = log
+  unir = merge
 
