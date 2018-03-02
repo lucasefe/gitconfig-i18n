@@ -4,7 +4,6 @@
   clonar = clone
   culpar = blame
   empujar = push
-  esconder = stash
   estado = status
   guardar = stash
   perpetrar = commit
@@ -13,4 +12,3 @@
   tirar = pull
   tronco = log
   unir = merge
-
