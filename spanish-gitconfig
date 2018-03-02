@@ -1,10 +1,11 @@
 [alias]
+  comprometer = commit
   culpar = blame
   empujar = push
+  esconder = stash
   estado = status
+  guardar = stash
   rama = branch
   tirar = pull
   tronco = log
-  esconder = stash
-  guardar = stash
 
