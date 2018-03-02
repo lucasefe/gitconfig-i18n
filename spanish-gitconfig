@@ -1,4 +1,5 @@
 [alias]
+  agregar = add
   comprometer = commit
   culpar = blame
   empujar = push
