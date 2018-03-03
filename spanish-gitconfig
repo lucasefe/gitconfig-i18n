@@ -4,13 +4,17 @@
   clonar = clone
   control = remote
   culpar = blame
+  dife = diff
   empujar = push
   eneso = init
   estado = status
+  etiquetar = tag
   guardar = stash
   inic = init
+  mostrar = show
   perpetrar = commit
   rama = branch
+  restablecer = reset
   revertir = revert
   revisar = checkout
   tirar = pull
