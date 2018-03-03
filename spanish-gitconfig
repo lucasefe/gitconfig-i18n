@@ -2,13 +2,17 @@
   agregar = add
   bitacora = log
   clonar = clone
+  control = remote
   culpar = blame
   empujar = push
+  eneso = init
   estado = status
   guardar = stash
+  inic = init
   perpetrar = commit
   rama = branch
   revertir = revert
+  revisar = checkout
   tirar = pull
   tronco = log
   unir = merge
