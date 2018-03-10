@@ -1,6 +1,6 @@
 #!./libs/bats/bin/bats
 
-MAIN_FILE='./spanish-gitconfig'
+MAIN_FILE='./locales/ES-es.gitconfig'
 
 load 'libs/bats-support/load'
 load 'libs/bats-assert/load'
