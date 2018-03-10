@@ -7,7 +7,7 @@ Now you can change those commands and let the discussion be over. No more excuse
 
 ## Install
 
-Add this to your `.gitconfig`, using the your own absolute path to the localized .gitconfig file.
+Add this to your `.gitconfig`, using your own absolute path to the localized gitconfig file.
 
 ```
 [include]
