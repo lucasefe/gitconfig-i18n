@@ -56,3 +56,5 @@ $ git empujar
 ## Wanna contribute?
 
 Fork away and submit PRs (include tests, please).
+
+[![Build Status](https://travis-ci.org/lucasefe/gitconfig-i18n.svg?branch=master)](https://travis-ci.org/lucasefe/gitconfig-i18n)
