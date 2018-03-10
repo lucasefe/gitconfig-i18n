@@ -2,9 +2,9 @@
   agregar = add
   bitacora = log
   clonar = clone
-  control = remote
   culpar = blame
   dife = diff
+  distante = remote
   empujar = push
   eneso = init
   estado = status
