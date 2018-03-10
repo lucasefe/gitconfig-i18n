@@ -15,6 +15,12 @@ Add this to your `.gitconfig`, using your own absolute path to the localized git
 
 ```
 
+Then add the following line to your `~/.bashrc` file. `zsh` is not supported yet.
+
+```
+source /path/to/gitconfig-i18n/locales/ES-es.bashrc
+```
+
 Now you enjoy the following aliases. You're welcome.
 
 ```
@@ -46,11 +52,11 @@ There's a more Argentina-specific [.gitconfig](https://github.com/lucasefe/gitco
 ## Example
 
 ```
-$ git tirar
+$ cretino tirar
 $ vim README.md
-$ git agregar README.md
-$ git perpetrar -am "Readme updated"
-$ git empujar
+$ cretino agregar README.md
+$ cretino perpetrar -am "Readme updated"
+$ cretino empujar
 ```
 
 ## Wanna contribute?
