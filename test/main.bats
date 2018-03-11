@@ -1,6 +1,7 @@
 #!./libs/bats/bin/bats
 
 MAIN_FILE='./locales/ES-es.gitconfig'
+BASH_RC='./locales/ES-es.bashrc'
 
 load 'libs/bats-support/load'
 load 'libs/bats-assert/load'
@@ -72,4 +73,9 @@ load 'libs/bats-assert/load'
 @test "unir should be an alias of merge" {
     run cat $MAIN_FILE
     assert_line --regexp '^  unir = merge$'
+}
+
+@test "cretino should be an alias of git itself" {
+    run cat $BASH_RC
+    assert_output --regexp 'cretino=.git.'
 }
